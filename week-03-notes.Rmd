@@ -104,10 +104,54 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # How to lie with Statistics 
 
++ How metrics can be manipulated to paint a false story
++ Biased Sampling: Polling a non-representative group
++ Small sample sizes: Picking an adequate sample size
++ Poorly-chosen averages: averaging values across non-uniform populations. Not representative of the truth
++ Results falling within the standard error: Survey can only be as accurate as its standard error
++ Using graphs to create an impression: Graphing data creatively provides room for false insights
++ The semi-attached figure: correlating one thing as proof of another
++ Post-hoc fallacy: Incorrectly asserting that there is a direct correlation between two findings (more nefarious)
 
 
-# Necessary Art of Persuasion
+# Necessary Art of Persuasion (Conger)
 
-
++ It's not 'persuading' it's 'building a business case'!
++ "Leading people to a problem's shared solution" (Conger)
++ 4 steps of being more persuasive:
+    
+    1. Establish credibility
+        + Through building expertise
+        + Through building relationships
+    2. Frame goals with common ground
+        + Trying to make connections
+        + WIIFM - What's In It For Me?
+    3. Reinforce using vivid language and compelling evidence
+        + Reference points help drive a point
+        + Combine data with storytelling
+    4. Connect emotionally
+        + Know and read your audience, but be mindful to match emotions
+        + Dry run with inner circle
+        + "Leaders touch a heart before they ask for a hand" 
+            + Must make connections/build relationships!
 
 # Ethics
+
++ Money and greed drives stupid behaviors of humans
++ Business Ethics: agreed upon code of conduct in business
++ Law & ethics are not synonymous
++ Staying within the law is a *minimal standard*
++ 5 simple rules of business ethics:
+
+    1. What would your Mother say? (What would Google or NY Times say about it)
+    2. Tell the Truth - it's easier to remember
+    3. It's not the crime - it's the cover-up
+    4. Be nice and respect others (sexual harassment, discrimination)
+    5. Don't be a whore (what's your price?)
+    + You aren't that smart and you'll likely get caught
+
++ What you own in life: 
+
+    1. Your choices
+    2. Your attitude
+    3. Your integrity
