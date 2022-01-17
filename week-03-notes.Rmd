@@ -1,0 +1,113 @@
+---
+title: "Week-03-Notes"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview Video
+
++ Assignment Feedback: 
+
+    + Expectations: 
+        + Readable, critical thinking, defending my position
+        + Don't return a Q&A type response
+        + Make connections to readings
+        + Specific action items and including "HOW" ("what" is useless without a "how")
+    + Find a mentor
+        + Tammy?
+        + Chad?
+        + Eric van Gestel / Sandra?
+        
++ Week 3 details
+
+    + Challenges of presenting data to stakeholders and communicating to leadership
+    + Persuasion as a tool for good
+    + Forecasting and ethics
+    
++ Necessary art of persuasion: 
+
+    + "Leading people to a problem shared solution" 
+    + sell yourself to employer thru interviewing
+    + Persuade using WIIFM
+        + "what's in it for me"
+    + Leaders touch a heart before asking for a hand
+    + 4 steps of being persuasive
+        + sharpen persuasiveness skills and negotiating
+        
++ Ethics readings ("women in forecasting")
+
+    + Falsifying company documents (expense reports, etc.) - violating company code of ethics
+    + 1/20 terminations was female
+    + "women calculate, men judge" 
+    
+    
+
+# Forecasting
+
++ The "Forecasted number" is the most powerful number in a business
+
++ Provide insight into how a company should manage its workforce and assts
++ See trends with workforce and customers
++ Inform Wall Street of our performance
++ Stakeholders when forecasting: 
+
+    + Customers
+    + Employees
+    + Investors
+    + Suppliers
+    + Communities
+    + Governments
+    
++ Roles: 
+
+    1. Sandbaggers (Pessimists)
+        + undercommit and overperform
+        + still negatively impacts trust
+    2. Pinocchios (Optimists)
+        + Overcommit and underperform
+        + Great story tellers and too big for their briches 
+    3. Steady Eddie (Realists)
+        + Don't tell you what they want you to hear
+        + Straight shooters
+        
++ closing ratio
+
+    1. Identify closing ratio through historical data
+        + 'sales closing ratio' = sales_transactions / customer_contacts
+    2. Once you know your closing ratio, you know what volume of sales proposals you need to reach your goal
+    
++ Sales (funnel) and Pipeline stages: 
+
+    Stage 1 (Awareness): Prospecting 
+    Stage 2 (Discovery): Qualifying Leads
+    Stage 3 (Discovery): Initial Meeting
+    Stage 4 (Discovery): Define Prospect Needs
+    Stage 5 (Evaluation): Make an Offer
+    Stage 6 (Intent): Negotiation / Finalize Proposal
+    Stage 7 (Purchase): Closing The Deal
+    Stage 8 (Loyalty): Deliver the Product
+    
+    
++ Case Study: Women Count - Perceptions of Forecasting in Sales
+
+    + Women are more trustworthy than men
+
+# How to lie with Statistics 
+
+
+
+# Necessary Art of Persuasion
+
+
+
+# Ethics
