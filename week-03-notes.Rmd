@@ -155,3 +155,55 @@ knitr::opts_chunk$set(echo = TRUE)
     1. Your choices
     2. Your attitude
     3. Your integrity
+    
+# Women Count: Perceptions of Forecasting in Sales (Wilson & Dingus)
+
+
+
+# The necessary art of persuasion (Conger)
+
++ Effective persuasion is a learning and negotiating process for leading your colleagues to a *shared solution* to a problem
+
++ The Idea at Work: 
+
+    1. Establish credibility
+        + Expertise + Relationships <- Reputation of trust
+        + Relationships
+    2. Frame goals on common ground
+        + When no shared advantages are apparent, adjust your position
+    3. Vividly reinforce your position
+        + Numerical data leads to compelling stories
+    4. Connect emotionally
+        + mirrors and labels
+        
++ to *persuade* is to effectively answer a 'why' question
++ Effective persuasion becomes a negotiating and learning process through which a persuader leads colleagues to a problem's shared solution
+    
+    + involves moving people to a position they don't currently hold
+    
++ old school persuasion <- logic, persistence, and personal enthusiasm to get other to buy a good idea
++ new school persuasion <- testing and revising ideas in concert with your colleagues' concerns and needs
++ people who are honest, steady, and reliable have the upper hand in persuasion
++ substitutes speaking on your behalf outweighs you talking about yourself
++ persuasion is the process of identifying shared benefits
++ at the heart of framing is a solid understanding of your audience
++ persuasion ultimately becomes a matter of presenting evidence.
++ numbers alone don't make an emotional impact
+
+    + supplement numerical data with examples, stories, metaphors, and analogies to make positions come alive
+
++ listeners absorb information in proportion to its vividness
++ persuasion is not all convincing and selling. Persuasion is learning and negotiating
+
++ How to be shitty at persuasion:
+
+    1. Attempt to make their case with an up-front, hard sell
+    2. Resist compromise
+        + I disagree - no deal is better than a bad deal
+    3. Thinking the secret of persuasion lies in presenting great agruments
+        + never agrue. Work with your counterpart to uncover information, revealing their black swans
+        + miror > label > repeat
+    4. Assume persuasion is a one-shot effort
+        + persuasion is a process, not an event
+
+        
